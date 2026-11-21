@@ -1,2 +1,8 @@
 ### macOS ###
 .DS_Store
+
+### Claude ###
+skills/synced
+
+### Rex ###
+skills/rex
